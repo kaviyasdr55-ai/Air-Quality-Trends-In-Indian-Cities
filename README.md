@@ -1,3 +1,4 @@
+## AIR_QUALITY_TRENDS_IN_INDIAN_CITIES
 🌍 Project Title: Air Quality Trend Analysis in Indian Cities
 I’m excited to share my project on Air Quality Trend Analysis across major Indian cities, where I analyzed pollution patterns and AQI variations using real-world environmental data.
 📊 Project Overview:
